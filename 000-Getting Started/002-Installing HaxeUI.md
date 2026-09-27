@@ -7,7 +7,7 @@ Haxe comes with package manager named HaxeLib, this is the simplest method to in
 haxelib install haxeui-core
 ```
 
-And thats it! You now have the core library of HaxeUI installed, however, haxeui-core by itself will do little - it needs to be coupled with a [backend](backends/index.html) in order to be used.
+And thats it! You now have the core library of HaxeUI installed, however, haxeui-core by itself will do little - it needs to be coupled with a [backend](003-Backends/index.md) in order to be used.
 
 HaxeUI Command Line Tools
 -------------------------

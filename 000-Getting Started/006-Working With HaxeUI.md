@@ -475,7 +475,7 @@ HaxeUI's built-in stylesheets use variables prefixed with `$`. You can reference
 }
 ```
 
-When the user switches themes (say, from `default` to `dark`), your panel will automatically pick up the new colors. See the [Building Themes](https://haxeui.org/api/guides/themes.html) guide.
+When the user switches themes (say, from `default` to `dark`), your panel will automatically pick up the new colors. See the [Building Themes](../001-Guides/008-Themes.md) guide.
 
 ### CSS Functions
 
@@ -572,7 +572,7 @@ You have a few options:
 </vbox>
 ```
 
-**3. In your theme** — for app-wide styles. See the [Building Themes](https://haxeui.org/api/guides/themes.html) guide.
+**3. In your theme** — for app-wide styles. See the [Building Themes](../001-Guides/008-Themes.md) guide.
 
 **4. At runtime from code** — for dynamic styles:
 ```haxe

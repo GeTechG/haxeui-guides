@@ -2,7 +2,7 @@
 
 Every HaxeUI app has a visual identity, and that identity lives in its *theme*. A theme is a package of colors, images, fonts, and style rules that tell HaxeUI how every component should look. HaxeUI ships with three built-in themes — `default`, `dark`, and `native` — but you can build your own from scratch.
 
-This guide walks you through how themes work and how to create one. We'll keep the focus on the theme system itself rather than diving deep into every CSS property available — for that, see the [Styling Guide](https://haxeui.org/api/guides/styling.html).
+This guide walks you through how themes work and how to create one. We'll keep the focus on the theme system itself rather than diving deep into every CSS property available — for that, see the [Styling Guide](004-Styling.md).
 
 ## Overview
 

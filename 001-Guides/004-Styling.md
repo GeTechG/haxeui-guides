@@ -465,7 +465,7 @@ But some components do also have a layout when on a composite backend, because t
 
 ![](_assets/styling_absolute_layout.png)
 
-You can check it on the [builder](https://haxeui.org/explorer/#layouts/absolute_layouts)
+You can check it on the [builder](https://www.haxeui.org/explorer/#layouts/absolute_layouts)
 
 
 ```xml
@@ -489,7 +489,7 @@ TIP : if you want to set a child to the "bottom" or to the "right". You can use 
 
 #### Default
 
-You can check it on the [builder](https://haxeui.org/explorer/#layouts/box_layouts)
+You can check it on the [builder](https://www.haxeui.org/explorer/#layouts/box_layouts)
 
 The position of the child component depends on :
 
@@ -507,7 +507,7 @@ The position of the child component depends on :
 #### Horizontal
 
 
-You can check it on the [builder](https://haxeui.org/explorer/#layouts/horizonal_layouts)
+You can check it on the [builder](https://www.haxeui.org/explorer/#layouts/horizonal_layouts)
 
 A **HBox** is a special component, it is a box  with a horizontal layout. So you can also do :
 
@@ -526,7 +526,7 @@ The position of the child component depends on :
 
 #### Vertical
 
-You can check it on the [builder](https://haxeui.org/explorer/#layouts/vertical_layouts)
+You can check it on the [builder](https://www.haxeui.org/explorer/#layouts/vertical_layouts)
 
 A **VBox** is a special component, it is a box with a vertical layout. So you can also do :
 
@@ -546,7 +546,7 @@ The position of the child component depends on :
 #### Grid
 
 
-You can check it on the [builder](https://haxeui.org/explorer/#layouts/grid_layouts)
+You can check it on the [builder](https://www.haxeui.org/explorer/#layouts/grid_layouts)
 
 A **Grid** is a special component, it is a box with a vertical grid layout. So you can also do :
 

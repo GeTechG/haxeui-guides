@@ -7,7 +7,7 @@ Native
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Built entirely out of HaxeUI components<br />![composite_dropdown](_assets/composite_dropdown.png) | Creation delegated to backend<br />![native_dropdown](_assets/native_dropdown.png) |
 | Themes are applicable                                        | Themes most likely selective at best                         |
-| Consistent yet custom look & feel<br />![native_composite](_assets/native_composite.png) | Look & feel matches host operating system<br />![native_native](/home/consonne/Work/HaxeuiGuide/haxeui-guides/001-Guides/_assets/native_native.png) |
+| Consistent yet custom look & feel<br />![native_composite](_assets/native_composite.png) | Look & feel matches host operating system<br />![native_native](_assets/native_native.png) |
 | Every visible aspect configurable via CSS                    | Hard to create totally custom UIs                            |
 | Logic layout handed via core                                 | Reports size back into core(if autosized)                    |
 
